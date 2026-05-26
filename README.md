@@ -68,6 +68,7 @@ Your BMI is: 22.86
 
 ## Author
 
+Nishant Tiwari
 Made with ❤️ as a beginner C programming project.
 
 ---
